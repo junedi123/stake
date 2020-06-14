@@ -1,0 +1,60 @@
+{
+ "Account": {
+     "Token": "89cf968e015c64e77422ccdd9958b05f64699aa217ef8cec56286dceb14e5c7fdd9c38d5d29ab5e3e0e2645b8ab9f910"
+     },
+ "Curency":"DOGE",
+ "Target Profit": "1000",
+ "Target Win": "0",
+  "Lose Target": "0",
+  "Interval": "1",
+ "Config": [{
+
+     "Name Bet Set": "C40 - Mining Modal 10 Doge",
+     "Base Bet": "0.01",
+     "Max Bet": "OFF",
+     "Chance": "20",
+     "Random Chance": {
+          "Toggle": "ON",
+          "Min": "15",
+          "Max": "21"
+        },
+     "Bet": {
+          "Bet": "Low",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "2",
+              "If Win": "2"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "1.05",
+     "Reset If Win": "3",
+     "Reset If Profit": "1",
+     "Interval": "1"
+     },{
+
+     "Name Bet Set": "C30 - Mode JP Modal 600 Doge",
+     "Base Bet": "0.001",
+     "Max Bet": "Off",
+     "Chance": "50",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "27",
+          "Max": "45"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "2",
+              "If Win": "1"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "2",
+     "Reset If Win": "1",
+     "Reset If Profit": "OFF",
+     "Interval": "15"
+     }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+ "Account": {
+     "Token": "87a9c0f5e30f5c35bd7709bf89d1371d9e4133f4f6effb13057621083a75f09181b412cf7e299fbe190459e92118ec66"
+     },
+ "Curency":"Doge",
+ "Target Profit": "1000",
+ "Target Win": "0",
+  "Lose Target": "0",
+  "Interval": "1",
+ "Config": [{
+
+     "Name Bet Set": "PO 3x",
+     "Base Bet": "0.001",
+     "Max Bet": "OFF",
+     "Chance": "30",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "5",
+          "Max": "9"
+        },
+     "Bet": {
+          "Bet": "Low",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "0",
+              "If Win": "1"
+            }
+        },
+     "If Win": "0.65",
+     "If Lose": "1.65",
+     "Reset If Win": "1",
+     "Reset If Profit": "1",
+     "Interval": "300"
+     },{
+
+     "Name Bet Set": "PO 50x",
+     "Base Bet": "0.001",
+     "Max Bet": "Off",
+     "Chance": "1.9",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "27",
+          "Max": "45"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "0",
+              "If Win": "1"
+            }
+        },
+     "If Win": "0.8",
+     "If Lose": "1.03",
+     "Reset If Win": "1",
+     "Reset If Profit": "1",
+     "Interval": "900"
+     },{
+
+     "Name Bet Set": "PO 4.5x",
+     "Base Bet": "0.001",
+     "Max Bet": "Off",
+     "Chance": "25",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "27",
+          "Max": "45"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "0",
+              "If Win": "1"
+            }
+        },
+     "If Win": "0.8",
+     "If Lose": "1.4",
+     "Reset If Win": "1",
+     "Reset If Profit": "1",
+     "Interval": "300"
+     },{
+
+     "Name Bet Set": "PO 99x",
+     "Base Bet": "0.001",
+     "Max Bet": "Off",
+     "Chance": "1",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "27",
+          "Max": "45"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "0",
+              "If Win": "1"
+            }
+        },
+     "If Win": "0.8",
+     "If Lose": "1.015",
+     "Reset If Win": "1",
+     "Reset If Profit": "1",
+     "Interval": "900"
+     },{
+
+     "Name Bet Set": "PO 5x",
+     "Base Bet": "0.001",
+     "Max Bet": "Off",
+     "Chance": "20",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "27",
+          "Max": "45"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "0",
+              "If Win": "1"
+            }
+        },
+     "If Win": "0.8",
+     "If Lose": "1.302",
+     "Reset If Win": "1",
+     "Reset If Profit": "1",
+     "Interval": "300"
+     },{
+
+     "Name Bet Set": "PO 220x",
+     "Base Bet": "0.001",
+     "Max Bet": "Off",
+     "Chance": "0.45",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "27",
+          "Max": "45"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "0",
+              "If Win": "1"
+            }
+        },
+     "If Win": "0.8",
+     "If Lose": "1.006",
+     "Reset If Win": "1",
+     "Reset If Profit": "1",
+     "Interval": "900"
+    },{
+
+     "Name Bet Set": "PO 6x",
+     "Base Bet": "0.001",
+     "Max Bet": "Off",
+     "Chance": "15",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "27",
+          "Max": "45"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "0",
+              "If Win": "1"
+            }
+        },
+     "If Win": "0.8",
+     "If Lose": "1.2",
+     "Reset If Win": "1",
+     "Reset If Profit": "1",
+     "Interval": "300"
+     },{
+
+     "Name Bet Set": "PO 330x",
+     "Base Bet": "0.001",
+     "Max Bet": "Off",
+     "Chance": "0.3",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "27",
+          "Max": "45"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "0",
+              "If Win": "1"
+            }
+        },
+     "If Win": "0.8",
+     "If Lose": "1.0044",
+     "Reset If Win": "1",
+     "Reset If Profit": "1",
+     "Interval": "900"
+
+    },{
+
+     "Name Bet Set": "PO 7x",
+     "Base Bet": "0.001",
+     "Max Bet": "Off",
+     "Chance": "12",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "27",
+          "Max": "45"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "0",
+              "If Win": "1"
+            }
+        },
+     "If Win": "0.8",
+     "If Lose": "1.15",
+     "Reset If Win": "1",
+     "Reset If Profit": "1",
+     "Interval": "300"
+     },{
+
+     "Name Bet Set": "PO 440x",
+     "Base Bet": "0.001",
+     "Max Bet": "Off",
+     "Chance": "0.22",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "27",
+          "Max": "45"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "0",
+              "If Win": "1"
+            }
+        },
+     "If Win": "0.8",
+     "If Lose": "1.003",
+     "Reset If Win": "1",
+     "Reset If Profit": "1",
+     "Interval": "900"
+    },{
+
+     "Name Bet Set": "PO 8x",
+     "Base Bet": "0.001",
+     "Max Bet": "Off",
+     "Chance": "9",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "27",
+          "Max": "45"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "0",
+              "If Win": "1"
+            }
+        },
+     "If Win": "0.8",
+     "If Lose": "1.125",
+     "Reset If Win": "1",
+     "Reset If Profit": "1",
+     "Interval": "300"
+     },{
+
+     "Name Bet Set": "PO 550x",
+     "Base Bet": "0.001",
+     "Max Bet": "Off",
+     "Chance": "0.18",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "27",
+          "Max": "45"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "0",
+              "If Win": "1"
+            }
+        },
+     "If Win": "0.8",
+     "If Lose": "1.0025",
+     "Reset If Win": "1",
+     "Reset If Profit": "1",
+     "Interval": "900"
+    },{
+
+     "Name Bet Set": "PO 9x",
+     "Base Bet": "0.001",
+     "Max Bet": "Off",
+     "Chance": "7.5",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "27",
+          "Max": "45"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "0",
+              "If Win": "1"
+            }
+        },
+     "If Win": "0.8",
+     "If Lose": "1.1",
+     "Reset If Win": "1",
+     "Reset If Profit": "1",
+     "Interval": "300"
+     },{
+
+     "Name Bet Set": "PO 660x",
+     "Base Bet": "0.001",
+     "Max Bet": "Off",
+     "Chance": "0.15",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "27",
+          "Max": "45"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "0",
+              "If Win": "1"
+            }
+        },
+     "If Win": "0.8",
+     "If Lose": "1.00222",
+     "Reset If Win": "1",
+     "Reset If Profit": "1",
+     "Interval": "900"
+    }
+  ]
+}

@@ -3,7 +3,7 @@
      "Token": "87a9c0f5e30f5c35bd7709bf89d1371d9e4133f4f6effb13057621083a75f09181b412cf7e299fbe190459e92118ec66"
      },
  "Curency":"Doge",
- "Target Profit": "1000",
+ "Target Profit": "1300",
  "Target Win": "0",
   "Lose Target": "0",
   "Interval": "1",
@@ -179,7 +179,7 @@
      },{
 
      "Name Bet Set": "PO 330x",
-     "Base Bet": "0.001",
+     "Base Bet": "0.01",
      "Max Bet": "Off",
      "Chance": "0.3",
      "Random Chance": {
